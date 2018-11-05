@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "444154828985",
+    "firebase_url": "https://doortie-server.firebaseio.com",
+    "project_id": "doortie-server",
+    "storage_bucket": "doortie-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444154828985:android:f82aa13812bc74f2",
+        "android_client_info": {
+          "package_name": "com.example.skure.doortie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444154828985-5rq7s97r0tc4301jfu018elj9tcj0eqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BC6SuUnzMjBvEpFIDgqYZnaOY85067A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
