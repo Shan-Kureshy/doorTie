@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

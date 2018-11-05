@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.skure.doortie.MainActivity">
+
+    <Button
+        android:id="@+id/statusButton"
+        android:layout_width="0dp"
+        android:layout_height="104dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="8dp"
+        android:elevation="0dp"
+        android:text="Change Status"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.54"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:ignore="HardcodedText"
+        app:layout_constraintTop_toBottomOf="@+id/statusImage" />
+
+    <ImageView
+        android:id="@+id/statusImage"
+        android:layout_width="301dp"
+        android:layout_height="254dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/solid_red_color_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.372"
+        app:srcCompat="@android:color/holo_red_dark" />
+
+
+    <TextView
+        android:id="@+id/CurrentStatus"
+        android:layout_width="298dp"
+        android:layout_height="45dp"
+        android:autoText="false"
+        android:text="Current Status"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="30sp"
+        tools:ignore="HardcodedText,TextViewEdits"
+        android:maxLines="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/statusImage"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="253dp"
+        android:layout_height="71dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Don't come in"
+        android:textAlignment="center"
+        android:textColor="?android:attr/colorBackground"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/statusImage"
+        app:layout_constraintLeft_toLeftOf="@+id/statusImage"
+        app:layout_constraintRight_toRightOf="@+id/statusImage"
+        app:layout_constraintTop_toTopOf="@+id/statusImage"
+        app:layout_constraintVertical_bias="0.534"
+        tools:ignore="HardcodedText" />
+
+</android.support.constraint.ConstraintLayout>

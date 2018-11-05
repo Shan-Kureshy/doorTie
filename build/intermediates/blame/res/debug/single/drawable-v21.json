@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\ad124020cb71c33717fa72171e90cd1b822f941f\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\ad124020cb71c33717fa72171e90cd1b822f941f\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\ad124020cb71c33717fa72171e90cd1b822f941f\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\ad124020cb71c33717fa72171e90cd1b822f941f\\output\\res\\drawable-v21\\design_password_eye.xml"
+    }
+]

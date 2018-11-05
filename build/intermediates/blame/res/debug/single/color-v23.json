@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\ad124020cb71c33717fa72171e90cd1b822f941f\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\skure\\.android\\build-cache\\a03687298015f2742e1d233b088857ecc033c9d4\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    }
+]

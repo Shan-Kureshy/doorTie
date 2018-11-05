@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Dec 01 14:22:01 PST 2017
+base.0=C\:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_322dcc9b452e37edef27f682d9233ec45143e0ac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6b27eb1e16a44697424dfeb10445a96eea531611\\classes.dex
+base.1=C\:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6b27eb1e16a44697424dfeb10445a96eea531611
+file.0=C\:\\Users\\skure\\AndroidStudioProjects\\DoorTie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_322dcc9b452e37edef27f682d9233ec45143e0ac\\classes.dex
